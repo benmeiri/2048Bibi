@@ -321,37 +321,31 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
   color: transparent;
-    background: url(../images/bibi.png);
+    background: url(../images/inner-01.gif);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
   color: transparent;
-    background: url(../images/bibi.png);
-	background-position: 0 -107px;
+    background: url(../images/inner-02.gif);	
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
   color: transparent;
-    background: url(../images/bibi.png);
-	background-position: 0 -214px;
+	background: url(../images/inner-03.gif);
 	}
   .tile.tile-16 .tile-inner {
 color: transparent;
-    background: url(../images/bibi.png);
-	background-position: 0 -321px;
+   background: url(../images/inner-04.gif);
 	}
   .tile.tile-32 .tile-inner {
    color: transparent;
-    background: url(../images/bibi.png);
-	background-position: 0 -428px;
+    background: url(../images/inner-05.gif);
 	}
   .tile.tile-64 .tile-inner {
     color: transparent;
-    background: url(../images/bibi.png);
-	background-position: 0 -535px;
+    background: url(../images/inner-06.gif);
 	}
   .tile.tile-128 .tile-inner {
     color: transparent;
-    background: url(../images/bibi.png);
-	background-position: 0 -642px;
+    background: url(../images/inner-07.gif);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
@@ -359,8 +353,7 @@ color: transparent;
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
     color: transparent;
-  background: url(../images/bibi.png);
-	background-position: 0 -749px;
+  background: url(../images/inner-08.gif);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
@@ -368,8 +361,7 @@ color: transparent;
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
 color: transparent;
-   background: url(../images/bibi.png);
-	background-position: 0 -856px;
+   background: url(../images/inner-09.gif);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
@@ -377,8 +369,7 @@ color: transparent;
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
     color: transparent;
-    background: url(../images/bibi.png);
-	background-position: 0 -963px;
+    background: url(../images/inner-10.gif);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
@@ -386,8 +377,7 @@ color: transparent;
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
    color: transparent;
-background: url(../images/bibi.png);
-	background-position: 0 -1070px;
+background: url(../images/inner-11.gif);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
